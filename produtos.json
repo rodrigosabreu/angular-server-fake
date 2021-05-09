@@ -1,0 +1,36 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Mouse DELL",
+      "valor": 10.50,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Teclado DELL",
+      "valor": 30,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "teclado.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Monitor Samsung",
+      "valor": 3000,
+      "promocao": true,
+      "valorPromo": 1000,
+      "imagem": "monitor.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Note DELL",
+      "valor": 5000,
+      "promocao": true,
+      "valorPromo": 2000,
+      "imagem": "note.jpg"
+    }
+  ]
+}
